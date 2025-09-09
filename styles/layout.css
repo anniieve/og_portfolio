@@ -393,6 +393,24 @@ h4 {
   margin: auto;
 }
 
+#tanssi {
+  padding: 30px;
+  text-align: center;
+  scroll-margin-top: 20px;
+}
+
+#sali {
+  padding: 30px;
+  text-align: center;
+  scroll-margin-top: 20px;
+}
+
+#musiikki {
+  padding: 30px;
+  text-align: center;
+  scroll-margin-top: 20px;
+}
+
 #ulkoilu {
   padding: 30px;
   text-align: center;
