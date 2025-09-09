@@ -431,6 +431,12 @@ h4 {
   scroll-margin-top: 20px;
 }
 
+#aiemmat {
+  padding: 30px;
+  text-align: center;
+  scroll-margin-top: 20px;
+}
+
 .koko {
   width: 190px;
   height: auto;
