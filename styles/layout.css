@@ -555,6 +555,15 @@ h4 {
     #harsivu {
       width: 100%;
     }
+    #tanssi {
+      scroll-margin-top: 121px;
+    }
+    #sali {
+      scroll-margin-top: 121px;
+    }
+    #musiikki {
+      scroll-margin-top: 121px;
+    }
     #ulkoilu {
       scroll-margin-top: 121px;
     }
